@@ -89,10 +89,19 @@ Key fields include:
 
 - `Online_Retail_Sales_Analysis.ipynb` — Python analysis notebook
 - Visualization files — charts generated during the analysis
-top_countries_revenue.png
-top_products_revenue.png
-top_customers_revenue.png
-monthly_revenue_trend.png
+## 📊 Visualizations
+
+### Top Countries by Revenue
+![Top Countries by Revenue](top_countries_revenue.png)
+
+### Top Products by Revenue
+![Top Products by Revenue](top_products_revenue.png)
+
+### Top Customers by Revenue
+![Top Customers by Revenue](top_customers_revenue.png)
+
+### Monthly Revenue Trend
+![Monthly Revenue Trend](monthly_revenue_trend.png)
 
 ## Conclusion
 
